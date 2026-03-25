@@ -8,6 +8,12 @@ O objetivo deste projeto é analisar uma base de dados de consumidores e prepara
 
 A lógica de negócio foca em entender qual canal de comunicação (`Preferred_Channel`) é preferido por cada perfil de utilizador, transformando o problema numa tarefa de **classificação multiclasse** com base em características demográficas, económicas e comportamentais.
 
+## Hipóteses iniciais
+1-idade, renda e gasto mensal podem influenciar o canal preferido;
+2-variáveis ligadas a preço e marca também podem ter relação com o canal;
+3-a influência principal sobre o consumidor pode ser um atributo importante para entender sua resposta a anúncios;
+4-clientes com perfis diferentes de fidelidade podem responder melhor a canais distintos.
+
 ## . Tecnologias e Ferramentas
 * **Linguagem:** Python 3.x
 * **Ambiente:** Google Colab
