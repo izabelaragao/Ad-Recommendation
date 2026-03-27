@@ -34,7 +34,7 @@ O projeto foi estruturado seguindo as boas práticas de Ciência de Dados, divid
 ### . Análise Exploratória de Dados (EDA)
 *  Visualização das distribuições (histogramas)
 *  Identificação de outliers (boxplots)
-*  Análise de correlação entre variáveis
+* Análise de correlação entre variáveis
 
 ### . Higienização do Dataset (Data Cleaning)
 * **Tratamento de Nulos e Duplicatas:** Verificação de dados ausentes ou repetidos que poderiam causar erros nos algoritmos.
