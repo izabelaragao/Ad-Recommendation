@@ -32,8 +32,9 @@ O projeto foi estruturado seguindo as boas práticas de Ciência de Dados, divid
 * **Análise de Estrutura:** Verificação do formato dos dados e identificação dos tipos de variáveis (numéricas e categóricas).
 
 ### . Análise Exploratória de Dados (EDA)
-* **Visualização Estatística:** Uso de gráficos para entender a distribuição da variável alvo (`Preferred_Channel`).
-* **Análise de Correlação:** Identificação de como variáveis como renda e idade se relacionam, utilizando matrizes de correlação para detetar padrões.
+* **Visualização das distribuições (histogramas)
+* ** Identificação de outliers (boxplots)
+* ** Análise de correlação entre variáveis
 
 ### . Higienização do Dataset (Data Cleaning)
 * **Tratamento de Nulos e Duplicatas:** Verificação de dados ausentes ou repetidos que poderiam causar erros nos algoritmos.
