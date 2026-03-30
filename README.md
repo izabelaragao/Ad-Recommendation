@@ -42,7 +42,7 @@ O projeto foi estruturado seguindo as boas práticas de Ciência de Dados, divid
   
 * Gráficos de barras
 
-* Heatmap de correlação
+* Matriz de correlação
 ## Validação de Hipóteses
 * Comparações entre variáveis
 
