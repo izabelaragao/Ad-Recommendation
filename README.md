@@ -37,12 +37,17 @@ O projeto foi estruturado seguindo as boas práticas de Ciência de Dados, divid
  Verificação de distribuição das variáveis
 ## Visualizações
 * Identificação de outliers (Boxplots)
+  
 * Visualização das distribuições (Histogramas)
+  
 *Gráficos de barras
+
 *Heatmap de correlação
 ## Validação de Hipóteses
 *Comparações entre variáveis
+
 *Tabelas agregadas
+
 *Crosstabulações
 
 ### . Higienização do Dataset (Data Cleaning)
