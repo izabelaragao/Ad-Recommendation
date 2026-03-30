@@ -32,9 +32,18 @@ O projeto foi estruturado seguindo as boas práticas de Ciência de Dados, divid
 * **Análise de Estrutura:** Verificação do formato dos dados e identificação dos tipos de variáveis (numéricas e categóricas).
 
 ### . Análise Exploratória de Dados (EDA)
-*  Visualização das distribuições (histogramas)
-*  Identificação de outliers (boxplots)
-* Análise de correlação entre variáveis
+  Estatísticas descritivas
+  Identificação de padrões
+ Verificação de distribuição das variáveis
+## Visualizações
+* Identificação de outliers (Boxplots)
+* Visualização das distribuições (Histogramas)
+*Gráficos de barras
+*Heatmap de correlação
+## Validação de Hipóteses
+*Comparações entre variáveis
+*Tabelas agregadas
+*Crosstabulações
 
 ### . Higienização do Dataset (Data Cleaning)
 * **Tratamento de Nulos e Duplicatas:** Verificação de dados ausentes ou repetidos que poderiam causar erros nos algoritmos.
@@ -49,7 +58,8 @@ O projeto foi estruturado seguindo as boas práticas de Ciência de Dados, divid
 Este MVP cumpriu o objetivo de transformar dados brutos num dataset estruturado e otimizado para modelagem preditiva. 
 
 **Os principais resultados alcançados foram:**
-* **Qualidade dos Dados:** Limpeza eficaz de ruídos e remoção de atributos irrelevantes.
-* **Preparação Matemática:** Através do Encoding e do Escalonamento, as variáveis categóricas e numéricas foram preparadas para serem processadas por algoritmos de Machine Learning com equidade.
-* **Prontidão para Modelagem:** O projeto gera ficheiros processados que servem de base direta para o treino de modelos de classificação (como Random Forest ou XGBoost).
-
+O canal preferido está associado ao perfil do consumidor
+Consumidores com maior fidelidade concentram-se em canais específicos
+A sensibilidade a preço influencia o comportamento de escolha
+Diferentes canais atraem perfis distintos
+Há evidências claras de segmentação entre os usuários
