@@ -40,15 +40,15 @@ O projeto foi estruturado seguindo as boas práticas de Ciência de Dados, divid
   
 * Visualização das distribuições (Histogramas)
   
-*Gráficos de barras
+* Gráficos de barras
 
-*Heatmap de correlação
+* Heatmap de correlação
 ## Validação de Hipóteses
-*Comparações entre variáveis
+* Comparações entre variáveis
 
-*Tabelas agregadas
+* Tabelas agregadas
 
-*Crosstabulações
+* Crosstabulações
 
 ### . Higienização do Dataset (Data Cleaning)
 * **Tratamento de Nulos e Duplicatas:** Verificação de dados ausentes ou repetidos que poderiam causar erros nos algoritmos.
