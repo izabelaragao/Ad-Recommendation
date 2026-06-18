@@ -1,4 +1,4 @@
-# MVP  — Machine Learning & Analytics
+# MVP  — * Machine Learning & Analytics *
 ## Projeto: Recomendação de Anúncios com Foco em Canal Preferido
 
 Este repositório contém o desenvolvimento de um MVP focado na preparação de dados para um sistema de recomendação de anúncios. O objetivo é identificar o canal de comunicação preferido (`Preferred_Channel`) de cada perfil de consumidor.
@@ -38,19 +38,19 @@ Prever a variável alvo Preferred_Channel e gerar recomendações personalizadas
 ### . Análise Exploratória de Dados (EDA)
 Foram realizadas análises para compreender o comportamento dos consumidores e identificar padrões relevantes para a modelagem.
  ## Análises Executadas
-Estatísticas descritivas;
-Distribuição das variáveis;
-Identificação de outliers;
-Correlação entre variáveis;
-Comparações entre grupos;
-Crosstabulações;
+* Estatísticas descritivas;
+* Distribuição das variáveis;
+* Identificação de outliers;
+* Correlação entre variáveis;
+* Comparações entre grupos;
+* Crosstabulações;
 Validação das hipóteses de negócio.
 ## Visualizações Utilizadas
- Histogramas;
- Boxplots;
- Gráficos de barras;
- Heatmap de correlação;
- Tabelas agregadas.
+*  Histogramas;
+* Boxplots;
+* Gráficos de barras;
+* Heatmap de correlação;
+* Tabelas agregadas.
 ## Validação de Hipóteses
 * Comparações entre variáveis
 
@@ -66,14 +66,6 @@ Validação das hipóteses de negócio.
 * **One-Hot Encoding:** Transformação de colunas de texto em colunas binárias (0 e 1) para processamento matemático.
 * **Escalonamento (Scaling):** Aplicação de **Padronização** (StandardScaler) e **Normalização** (MinMaxScaler) para que variáveis com números grandes não dominem o modelo injustamente.
 * **Discretização (Binning):** Agrupamento de variáveis numéricas contínuas em faixas (ex: faixas etárias).
-## Engenharia de Atributos
-
-Foram aplicadas técnicas de transformação para adequação dos dados aos algoritmos de Machine Learning:
-
-One-Hot Encoding para variáveis categóricas;
-Label Encoding da variável alvo;
-Discretização de variáveis contínuas (Binning);
-Criação de datasets preparados para modelagem.
 ## Escalonamento
 Foram testadas diferentes estratégias de escalonamento:
 StandardScaler;
