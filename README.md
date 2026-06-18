@@ -1,4 +1,4 @@
-# MVP  —Machine Learning & Analytics
+# MVP  — Machine Learning & Analytics
 ## Projeto: Recomendação de Anúncios com Foco em Canal Preferido
 
 Este repositório contém o desenvolvimento de um MVP focado na preparação de dados para um sistema de recomendação de anúncios. O objetivo é identificar o canal de comunicação preferido (`Preferred_Channel`) de cada perfil de consumidor.
@@ -8,7 +8,7 @@ O objetivo deste projeto é analisar uma base de dados de consumidores e prepara
 
 A lógica de negócio foca em entender qual canal de comunicação (`Preferred_Channel`) é preferido por cada perfil de utilizador, transformando o problema numa tarefa de **classificação multiclasse** com base em características demográficas, económicas e comportamentais.
 
-## Objetivo de Negócio
+## .Objetivo de Negócio
 
 Apoiar estratégias de marketing orientadas por dados, aumentando a eficiência das campanhas publicitárias e melhorando a alocação dos investimentos em mídia.
 
